@@ -83,6 +83,7 @@ $(function () {
             icon: "icon-tianqi-wu"
         }
       };
+      console.log(icons);
 
     //匹配星期几
     var days = ['日', '一', '二', '三', '四', '五', '六'];
