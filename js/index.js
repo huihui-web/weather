@@ -82,7 +82,7 @@ $(function () {
             title: '雾',
             icon: "icon-tianqi-wu"
         }
-      };
+      };console.log(1);
       console.log(icons);
 
     //匹配星期几
