@@ -82,8 +82,8 @@ $(function () {
             title: '雾',
             icon: "icon-tianqi-wu"
         }
-      };
-
+      };console.log(1);
+      
     //匹配星期几
     var days = ['日', '一', '二', '三', '四', '五', '六'];
 
